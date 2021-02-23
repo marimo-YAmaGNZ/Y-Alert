@@ -1,0 +1,12 @@
+// WiFi Setting
+ssid = yourssid
+password = yourpassword
+
+// YouTube API Key
+apiKey = yourapikey
+
+// アラート通知間隔
+Interval = 1
+
+// 監視グループ数
+GroupCount = 3
